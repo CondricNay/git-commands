@@ -184,7 +184,7 @@ test/
    > git branch 
 
 4. Switch branch
-   > git checkout 
+   > git checkout branch-name
 
 5. Merging branches
    > git merge branch-name
